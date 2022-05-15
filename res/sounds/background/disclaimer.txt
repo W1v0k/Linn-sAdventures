@@ -1,0 +1,4 @@
+The sounds were too big to upload, even zipped.
+In this folder were 2 songs: 
+  o bgsound_01.wav
+  o menu_01.wav
